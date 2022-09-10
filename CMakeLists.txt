@@ -9,3 +9,4 @@ project(
 )
 
 include(builder/CMakeLists.txt)
+include(factory/CMakeLists.txt)
