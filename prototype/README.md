@@ -4,7 +4,7 @@ A partially or fully initialized object that you copy (clone) and make use of.
 
 1. Prototype - Can be implemented by means of copy constructor or copy assignment.
 1. Prototype Factory - Generate a prototype using the the [Factory](../factory/) pattern.
-1. Prototype via serialization - Use a serialization interface (such as Boost::serialization) to both have serialization and prototypeing.
+1. Prototype via serialization - Use a serialization interface (such as boost::serialization) to both have serialization and prototypeing.
 
 For the solution expected by the automated evaluator, the following code suffices:
 
