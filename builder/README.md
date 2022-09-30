@@ -1,5 +1,7 @@
 # Builder
 
+Provides an API for constructing an object step-by-step.
+
 There are two builder patterns:
 
 1. Builder
