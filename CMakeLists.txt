@@ -10,3 +10,4 @@ project(
 
 include(builder/CMakeLists.txt)
 include(factory/CMakeLists.txt)
+include(prototype/CMakeLists.txt)
