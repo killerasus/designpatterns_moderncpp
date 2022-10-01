@@ -7,3 +7,5 @@ Coding exercises for [Design Patterns in Modern C++](https://www.udemy.com/cours
   - [Factory](factory/)
   - [Prototype](prototype/)
   - [Singleton](singleton/)
+- Structural patterns:
+  - [Adapter](adapter/)
